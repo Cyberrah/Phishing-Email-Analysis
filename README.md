@@ -20,6 +20,10 @@ The scenario involves a message impersonating Microsoft Account Support, an urge
 - [Editable report — Word](Phishing_Email_Analysis_Portfolio/report/SOC_Phishing_Investigation_Report.docx)
 - [Illustrative walkthrough images](Phishing_Email_Analysis_Portfolio/screenshots)
 
+## Evidence quality
+
+[Read the evidence assessment](Phishing_Email_Analysis_Portfolio/docs/evidence-assessment.md) for a claim-to-source table, limits of the simulated headers and attachment, and evidence needed to establish real-world impact. The IOC hash placeholder is not an actionable file hash.
+
 ## Workflow
 
 1. Triage the reported email and identify social-engineering cues.
